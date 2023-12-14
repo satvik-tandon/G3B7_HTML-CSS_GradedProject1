@@ -30,7 +30,7 @@ nav {
 
 #nav li a {
     text-decoration: none;
-    color: white;
+    color: rgb(255, 255, 255);
 }
 
 #sm1,
@@ -78,7 +78,7 @@ nav {
 
 #sm1 li:hover,
 #sm2 li:hover {
-    background-color: wheat;
+    background-color: rgb(65, 65, 65);
 }
 
 #sm1 li,
